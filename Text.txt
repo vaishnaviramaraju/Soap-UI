@@ -1,0 +1,12 @@
+Learned Selenium Webdriver Testing using videos in a website and by Trainers lessons
+
+https://www.udemy.com/complete-java-for-test-automation/
+http://www.guru99.com/soapui-tutorial.html
+
+Gone through few concepts of Soap UI and started working on it on the soap ui tool
+
+Started Cucumber Framework 
+
+Gone through few videos on Udemy Website and studied what is cucumber framework. How it is used and how to install it
+https://cucumber.io/school
+
